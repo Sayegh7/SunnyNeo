@@ -1,0 +1,35 @@
+<style>
+//
+*{}
+BODY{background:url('http://sunnyneo.com/shop/SHOP_teamAC_bg.jpg');background-attachment:fixed;}
+#ban, .ban_bottom{
+height: 0 !important;
+}
+#header {background:url('http://sunnyneo.com/shop/SHOP_brightvaleAC_img.jpg') no-repeat; height:300px; border:none;}
+
+#main {width: 996px; background:url(http://sunnyneo.com/shop/SHOP_brightvaleAC_bg.jpg);background-position: top left; border:0px;}
+
+#main {padding-top:0px;}
+#content {width: 906px;}
+#nst {padding-right:60px;}
+
+.user {padding-top:2px; padding-right:20px;}
+.sidebar {background:none; padding-left:45px;}
+.sidebarHeader a img {height:13px; width:13px;}
+.sidebarModule, #ban {border:none;}
+.sidebarHeader {background:#008700;}
+.contentModuleTable {width: 100px;}
+ul.dropdown {color: #d21506; border: 2px solid #000000; background:url(http://sunnyneo.com/shop/SHOP_teamAC_bg2.jpg);}
+hr {width:0px;}
+A:Link, A:Visited, .user A:Visited, .user A:Link {color: #000000;}
+A:Active, .user, .copyright, .content  {color: #000000;}
+.eventIcon A:Link, .eventIcon A:Visited, .copyright A:Link, .copyright A:Visited {color: #000000;}
+A:Active, A:Hover {color: #ffd000;}
+
+.eventIcon A:hover, .user A:Hover, .tl:hover, LI:hover UL.dropdown A:Hover, LI.over UL.dropdown A:hover, .copyright A:Hover {color: #a9a5a3;}
+
+#footer{background:none;padding-left:105px;}
+#footer table {width:81%;}
+.footerNifty, #footer table table td img {height:0px;width:0px;}
+.copyright {padding-left:100px;}
+</style>
