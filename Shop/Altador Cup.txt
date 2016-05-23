@@ -1,0 +1,70 @@
+<style>
+body {background:url('http://sunnyneo.com/shop/SHOP_altadorcup_bg.jpg');}
+#ban {background:url('http://sunnyneo.com/shop/SHOP_altadorcup_bg.jpg');width:800px;}
+.ban_bottom{
+height:0 !important;
+}
+#header {background:url('http://sunnyneo.com/shop/SHOP_altadorcup_head.jpg') no-repeat; height:670px; width:800px; border:none;}
+
+#header img {width:65px;}
+#header .eventIcon img {width:25px;}
+#template_nav, #nst{padding-top:600px;}
+#nst {padding-right:60px;padding-bottom:5px;}
+
+#main{background:url('http://sunnyneo.com/shop/SHOP_altadorcup_mainbg.jpg') repeat-y; border:none;width:800px;}
+
+#content {width:760px;padding-left:10px;}
+hr {width:0px;}
+
+.sidebarTable {width:140px;}
+.sidebar {background:none;}
+.sidebar a img {width:140px; height:140px;}
+.sidebarHeader a img {height:13px; width:13px;}
+.sidebarModule, #ban {border:none;}
+.sidebarHeader {background:#4E4E4E;}
+ul.dropdown {background:white;border:1px solid #4E4E4E;}
+
+#footer {
+	background: none;
+	height: 12px;
+	overflow: hidden;
+}
+.footerNifty, #footer table table td img {
+	height: 0;
+	width: 0;
+	overflow: hidden;
+}
+
+#pushdown_banner {
+	top: -999px;
+	height: 0px;
+}
+
+body, div, table, tr, td{font-family: georgia; color: #000000; font-size: 8pt;}
+.medText {color:#000000;}
+h1 {font-size: 14px;font-weight: bold; text-transform:uppercase;border-bottom: 1px dotted #717171;font-family: georgia;color: #964824;text-align:left}
+#main a, a b{color: #1D8324; font-size: 8pt; text-decoration: none;}
+#main a:hover, a b:hover{color: #51CA58; font-size: 8pt;}
+#content a b, a {color: #1D8324; font-size: 8pt; text-decoration: none;}
+#content a:hover b, a:hover {color: #51CA58; font-size: 8pt;}
+#main b, b {color:#94421C;}
+#ad-slug-wrapper-btf{
+height:0;
+overflow:hidden;
+}
+</style>
+
+<h1>Wish list</h1>
+Items here, blah blah blah
+<h1>Recent items</h1>
+Newly added, blah blah blah
+<br /><br /><br />
+General Gallery information here, or just whatever.
+<br /><br /><br />
+<center>
+<div style="background: url('http://sunnyneo.com/linktous/layoutbanner.gif');width:100px;height:36px;z-index:7;">
+<a href="http://www.neopets.com/~alan_rogers2132" target="_blank">
+<img src="http://images.neopets.com/neoboards/spacer.gif" border="0" width="100" height="36" /></a>
+</div>
+</center>
+<br /><br />

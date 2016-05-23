@@ -5,6 +5,15 @@ BODY{background:url('http://sunnyneo.com/shop/SHOP_teamAC_bg.jpg');background-at
 #ban, .ban_bottom{
 height: 0 !important;
 }
+ #ad-slug-wrapper-btf, #footer{
+height:0 !important;
+overflow:hidden;
+
+}
+ #ad-slug-wrapper{
+width: 0 !important;
+overflow: hidden;
+}
 #header {background:url('http://sunnyneo.com/shop/SHOP_brightvaleAC_img.jpg') no-repeat; height:300px; border:none;}
 
 #main {width: 996px; background:url(http://sunnyneo.com/shop/SHOP_brightvaleAC_bg.jpg);background-position: top left; border:0px;}

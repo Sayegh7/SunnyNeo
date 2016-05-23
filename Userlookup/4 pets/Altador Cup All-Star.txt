@@ -1,0 +1,163 @@
+<div id="blank"></div>
+<div id="about">
+<h1>About Me</h1>
+<div id="aboutContent">
+
+
+<p>
+<a href="/myaccount.phtml">My Account</a> |
+<a href="/customise/">Customise</a> |
+<a href="/games/arcade.phtml">Games</a> | 
+<a href="/explore.phtml">Explore</a> |
+<a href="/nf.phtml">News</a> |
+<a href="/petcentral.phtml">Pet Central</a> |
+<a href="/neoboards/index.phtml">Boards</a> |
+<a href="/objects.phtml">Shops</a> |
+<a href="/mall/index.phtml">NC Mall</a></p>
+<p>
+Hey SunnyNeo, I fixed one of your lookups too. Just thought I'd help out :D
+</p>
+Write about you here!<br>
+
+Write about you here!<br>
+Write about you here!<br>
+Write about you here!<br>
+Write about you here!<br>
+Write about you here!<br>
+Write about you here!<br></div></div>
+<style>
+#ban, #habitarium, #ncmall {
+	display: none;
+}
+#main {
+	margin-top: 0px;
+	margin-left: 0px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+body {
+	background: #292929 url("http://www.sunnyneo.com/userlookups/AC6_allstar_bg.jpg") repeat-y top left;
+}
+body, font, td, p, a, .medText {
+	font: 8pt century gothic;
+	color: #696969;
+}
+#nst, .user, hr, #userneohome {
+	display: none;
+	visibility: hidden;
+}
+#about {
+	position: relative;
+	top: 110px;
+	margin-bottom: 120px;
+}
+#aboutContent {
+	margin-bottom: 100px;
+}
+#main a, #main a b, a, a b {
+	text-decoration: none;
+	color: #d2c70b;
+	font: 8pt century gothic;
+}
+#main a:hover, #main a b:hover, a:hover, a b:hover {
+	text-decoration: none;
+	color: #9d7c11;
+}
+b {
+	color: #ca9e0a;
+	font: 8pt tahoma small cap;
+}
+i {
+	color: #ca9e0a;
+	letter-spacing: 2px;
+}
+.contentModuleHeaderAlt, .contentModuleHeader, h1 {
+	background: url("http://www.sunnyneo.com/userlookups/AC6_allstar_h1.jpg");
+	text-transform: uppercase;
+	border: 1px solid black;
+	color: #fff;
+	padding-left: 5px;
+	text-align: left;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 10pt;
+	font-family: century gothic;
+	letter-spacing: 3px;
+}
+h1 {
+	height: 25px;
+	line-height: 23px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
+#footer, #header, #contentcontent, .sf, hr {
+	display: none;
+}
+#main, .contentModuleContent, .contentModuleTable, .contentModule {
+	border: none;
+	background: none;
+}
+#userneopets {
+	width: 630px;
+}
+#usertrophies td {
+	padding: 0px;
+}
+#usertrophies .contentModuleHeader {
+	padding-left: 5px;
+}
+#usertrophies img {
+	width: 70px;
+	height: 70px;
+}
+#usertrophies {
+	width: 630px !important;
+}
+#usertrophies b, #usertrophies {
+	font: 7pt verdana;
+	font-weight: normal;
+	letter-spacing: -1px;
+}
+.contentModule div a img, .contentModule div b {
+	display: inline;
+}
+.contentModuleTable img {
+	border: 1px solid #000000;
+}
+#userneopets img {
+	border: none;
+	width: 130px;
+	height: 130px;
+}
+#content {
+	width: 630px;
+	margin-left: 155px;
+}
+#img {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+}
+#blank {
+	height: 114px;
+	width: 779px;
+	background: url("http://www.sunnyneo.com/userlookups/AC6_allstar_img.jpg");
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#userinfo .contentModuleContent {
+	background-image: url("http://www.sunnyneo.com/shield/shield_acallstar.png");
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+#userinfo .medText img {
+	visibility: hidden;
+}
+#userinfo .medText table table img {
+	visibility: visible;
+}
+</style>
