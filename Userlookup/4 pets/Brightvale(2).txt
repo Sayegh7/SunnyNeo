@@ -84,7 +84,7 @@ h1 {
 #usertrophies td {
 	padding: 0px;
 }
-#usertrohies .contentModuleHeader {
+#usertrophies .contentModuleHeader {
 	padding-left: 5px;
 }
 #usertrophies img {

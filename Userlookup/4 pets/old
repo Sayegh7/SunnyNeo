@@ -1,0 +1,2 @@
+#main {position: absolute;left: 0;margin-top: 0px;margin-left: 0px;}
+#img {width: 775px;height: 108px;background: url("http://sunnyneo.com/userlookups/AC3_darigan_img.jpg");position: absolute;top: 0px;left: 0px;z-index: 1;}
