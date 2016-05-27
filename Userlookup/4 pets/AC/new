@@ -1,0 +1,146 @@
+<div id="pic" style="background: url('http://sunnyneo.com/userlookups/UL_altador_img.jpg');"></div>
+<div id="nav">
+<a href="/myaccount.phtml">Account</a>
+<a href="/customise/">Customise</a>
+<a href="/games/arcade.phtml">Games</a>
+<a href="/explore.phtml">Explore</a>
+<a href="/nf.phtml">News</a>
+<a href="/community/index.phtml">Community</a>
+<a href="/objects.phtml">Shops</a>
+<a href="/mall/index.phtml">NC Mall</a>
+<a href="/membership/"> Premium</a></div>
+<div id="blank"></div><p></p><center>
+<div style="background: url('http://www.sunnyneo.com/altadorcup/badge_altador.png'); height: 150px; width: 150px; display: block;"></div><br>
+
+<div style="width:650px;">This is where you write about you and your love for the Altador Cup. All about you here. Blah blah blah blah. Other lookup stuff here :P<br><br><br><b>Bold</b> <i>Italic</i></div> 
+
+<style>
+#ban, #habitarium, #ncmall {
+	display: none;
+}
+#main {
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+body {
+	background: #292929 url("http://sunnyneo.com/userlookups/UL_altador_bg.jpg");
+}
+body, font, td, p, i, a {
+	font: 8pt verdana;
+	color: #000000;
+}
+#nst, .user, hr, #userneohome {
+	display: none;
+}
+a, a b {
+	font: 8pt verdana;
+	color: #166931;
+	text-decoration: none;
+}
+a:hover, a:hover b {
+	color: #69AE82;
+}
+i {
+	color: #FFB100;
+}
+b {
+	color: #641200;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+u {
+	color: #FF3800;
+}
+.contentModuleHeader, .contentModuleHeaderAlt {
+	border: 1px solid black;
+	background: url("http://sunnyneo.com/userlookups/UL_altador_h1.jpg");
+	color: #000000;
+	text-align: center;
+	text-transform: uppercase;
+}
+.contentModuleTable, .contentModule, .contentModuleContent {
+	border: none;
+}
+#pic {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 780px;
+	height: 600px;
+	display: block;
+	z-index: -1;
+	overflow: auto;
+}
+#content {
+	width: 630px;
+}
+#stats {
+	position: absolute;
+	z-index: 2;
+	top: 510px;
+	left: 108px;
+	width: 660px;
+}
+#nav {
+	position: absolute;
+	left: 0px;
+	top: 25px;
+	z-index: 1;
+	width: 107px;
+	text-align: center;
+}
+#nav a {
+	font: 12pt georgia;
+	color: #000000;
+	border-right: 10px solid #FF4A00;
+	background-color: #FFB100;
+	border-top: 1px solid #E19E05;
+	text-align: left;
+	padding-left: 3px;
+	font-weight: bold;
+	display: block;
+}
+#nav a:hover {
+	color: #ffffff;
+	background-color: #FF4A00;
+	padding-left: 10px;
+}
+#footer, #header, #contentcontent, .sf, hr {
+	display: none;
+}
+#main {
+	border: none;
+	background: none;
+}
+#usershop {
+	width: 102px;
+	padding-right: 50px;
+}
+#userneopets {
+	width: 660px;
+}
+#usercollections {
+	width: 175px;
+	padding-left: 30px;
+}
+#usertrophies {
+	width: 660px;
+}
+#usertrophies td {
+	padding: 0px;
+}
+.trophy_cell td {
+	padding: 0px;
+}
+#content {
+	margin-left: 101px;
+}
+#blank {
+	height: 460px;
+}
+</style></center>

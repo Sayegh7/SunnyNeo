@@ -102,7 +102,7 @@ h1 {
 .contentModuleTable img {
 	border: 1px solid #000000;
 }
-#userneopets img {border: none;	width: 110px;height: 110px;}
+#userneopets img {border: none;	width: 130px;height: 130px;}
 #content {
 	width: 600px;
 	margin-left: 155px;
@@ -119,4 +119,5 @@ h1 {
 #blank {
 	height: 100px;
 }
-</style>
+#userneopets a {display: block; width: 100px; height: 150px; overflow: hidden;}
+#userneopets a img {margin-left: -25px;border: none;}</style>
