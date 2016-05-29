@@ -109,7 +109,7 @@ h1 {
 }
 #img {
 	width: 775px;
-	height: 108px;
+	height: 113px;
 	background: url("http://sunnyneo.com/userlookups/AC3_brightvale_img.jpg");
 	position: absolute;
 	top: 0px;
