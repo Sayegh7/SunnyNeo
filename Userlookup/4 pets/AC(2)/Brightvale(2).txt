@@ -18,6 +18,7 @@
 #ban, #habitarium, #ncmall {
 	display: none;
 }
+.contentModule{width:100%;}
 #main {
 	position: absolute;
 	left: 0;

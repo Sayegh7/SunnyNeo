@@ -52,6 +52,8 @@ i {
 	color: #9cd262;
 	letter-spacing: 2px;
 }
+.contentModule{width: 100%;}
+
 .contentModuleHeaderAlt, .contentModuleHeader, h1 {
 	background: url("http://sunnyneo.com/userlookups/AC3_brightvale_h1.jpg");
 	text-transform: uppercase;
